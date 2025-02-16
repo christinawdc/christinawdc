@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ###
 
 <h2>🛠 Tech and Tools I'm Familiar With or Currently Learning</h2>
--  C, Java, Python <br>
+-  👩‍💻 C, Java, Python <br>
 -  VSCode, Pycharm, Eclipse, Git  <br>
 -  HTML, CSS  <br>
 -  Figma, Canva <br>
