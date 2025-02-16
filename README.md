@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 ###
 
 <h2>🛠 Tech and Tools I'm Familiar With or Currently Learning</h2>
-- C, Java, Python
-- VSCode, Pycharm, Eclipse, Git
-- HTML, CSS
+- C, Java, Python <br>
+- VSCode, Pycharm, Eclipse, Git  <br>
+- HTML, CSS  <br>
+- Figma, Canva <br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
