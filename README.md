@@ -58,14 +58,16 @@ Here are some ideas to get you started:
 </div>
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+###
+
+<!-- Light Mode -->
+<img src="https://github.com/christinawdc/christinawdc/blob/main/github-user-contribution.svg" alt="GitHub Snake Light Mode" />
+
+<!-- Dark Mode --> 
+<!--<img src="https://github.com/christinawdc/christinawdc/blob/main/github-user-contribution (1).svg" alt="GitHub Snake Dark Mode" />-->
 
 ###
 
-
-<br clear="both">
-
-<img src="https://i.imgur.com/your-uploaded-image.svg" alt="Snake animation" />
 
 ###
 
