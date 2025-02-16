@@ -1,5 +1,5 @@
-## Hello, I'm Christina George👋
-
+### Hello, I'm Christina George👋
+###
 <!--
 **christinawdc/christinawdc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 - 🧠 Curiosity for all things tech-related.
 - 🤝 Open to meeting new people and having engaging conversations on tech, innovations and ideas.
 ###
-
+###
 <h2>🛠 Tech and Tools I'm Familiar With or Currently Learning</h2>
 - C, Java, Python <br>
--  VSCode, Pycharm, Eclipse, Git  <br>
--  HTML, CSS  <br>
--  Figma, Canva <br>
+- VSCode, Pycharm, Eclipse, Git  <br>
+- HTML, CSS  <br>
+- Figma, Canva <br>
 
 <br>
 
