@@ -1,5 +1,4 @@
-[![MasterHead](![image](https://github.com/user-attachments/assets/3903ce7c-1c57-4655-8cf8-a1feee9c778c)
-)
+[![MasterHead]([image](https://github.com/user-attachments/assets/3903ce7c-1c57-4655-8cf8-a1feee9c778c)]
 ### Hello, I'm Christina George👋
 ###
 <!--
